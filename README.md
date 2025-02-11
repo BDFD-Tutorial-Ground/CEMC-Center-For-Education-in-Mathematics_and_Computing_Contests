@@ -18,20 +18,20 @@ The Centre for Education in Mathematics and Computing (CEMC) is the largest outr
 
 Mathematics and computing contests are a fun way for students to grow their problem-solving skills, build confidence and get creative with math and computer science. Designed by teams of expert mathematicians and educators for Grades 5 to 12, CEMC contests are a great fit for students across a range of abilities—from learners who want to explore math and computer science and develop their confidence to advanced students who want to stretch their limits.
 
+**Individual Course Content**
+
+- [x] **P1-Gauss Contest G7~8**
+- [x] **P2-Pascal, Cayley and Fermat Contests G9~11**
+- [x] **P3-Fryer, Galois and Hypatia Contests G9~11**
+- [x] **P4-Canadian Senior and Intermediate Mathematics Contest G9~12**
+- [x] **P5-Euclid Contest G12**
+
 **Team Course Content**
 
 - [x] **T1-Team Up Challenge G6~8**
 - [x] **T2-Canadian Team Mathematics Contest G9~12**
 
-**Individual Course Content**
-
-- [x] **Gauss Contest G7~8**
-- [x] **P1-Pascal, Cayley and Fermat Contests G9~11**
-- [x] **P2-Fryer, Galois and Hypatia Contests G9~11**
-- [x] **P3-Canadian Senior and Intermediate Mathematics Contest G9~12**
-- [x] **P4-Euclid Contest G12**
-
-## Course Description: 1 Course
+## Course Description: 7 Course
 
 University Administrated : University of Waterloo  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
