@@ -18,6 +18,14 @@ The Centre for Education in Mathematics and Computing (CEMC) is the largest outr
 
 Mathematics and computing contests are a fun way for students to grow their problem-solving skills, build confidence and get creative with math and computer science. Designed by teams of expert mathematicians and educators for Grades 5 to 12, CEMC contests are a great fit for students across a range of abilities—from learners who want to explore math and computer science and develop their confidence to advanced students who want to stretch their limits.
 
+**Course Content**
+
+- [x] **Algebra(A)-Patterning, Relations, Sequences, Functions**
+- [x] **Computational Thinking(C)-Logic, Coding**
+- [x] **Data Management(D)-Probability, Statictics**
+- [x] **Geometry and Measurement(G)-Spatial Sense, Shape and Space, Trigonometry**
+- [x] **Number Sense(N)-Numeration, Numbers, Number Theory, Financial Literacy**
+
 **Individual Course Content**
 
 - [x] **P1-Gauss Contest G7~8**
